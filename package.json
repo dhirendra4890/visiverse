@@ -1,0 +1,16 @@
+{
+  "name": "vmosa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hao\"",
+  },
+  "author": "",
+  "license": "ISC"
+}
